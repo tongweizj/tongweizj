@@ -14,17 +14,15 @@
 
 </pre>
 
-<!-- WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔 Please think twice before
-BLINDLY COPYING my profile readme format. Design your own that
- suit your needs! Or well, at least give credit, sheesh. -->
-
 <pre>
  ~> <strong>cat HelloWorld.txt</strong>
 - Hi, My name is Max Tong. 
   I am Full Stack Developer & Product Manger.
-- I enjoy building from zero to one by code or prototype!      
+- I enjoy building from zero to one by code or prototype! 
+
  ~> <strong>ls socials</strong>
- Fediverse: <a href="https://tilde.zone/@hedy">@hedy@tilde.zone</a>
+- blog: <a href="yoese.com">yoese.com</a>
+- Linkedin: <a href="https://www.linkedin.com/in/tongweizj/">tongweizj</a>
 
  ~> <strong>finger hedy</strong>
 Login: hedy                             Name: hedy
