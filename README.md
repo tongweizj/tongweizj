@@ -21,7 +21,7 @@
   - I enjoy building from zero to one by code or prototype! 
 
  ~> <strong>📫 How to reach me</strong>
-  - blog: <a href="yoese.com">yoese.com</a>
+  - blog: <a href="http://yoese.com">yoese.com</a>
   - Linkedin: <a href="https://www.linkedin.com/in/tongweizj/">tongweizj</a>
   - Email: <a href="mailto:max.tw@yoese.com">max.tw@yoese.com</a>.
 </pre>
