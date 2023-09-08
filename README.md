@@ -19,12 +19,10 @@ BLINDLY COPYING my profile readme format. Design your own that
  suit your needs! Or well, at least give credit, sheesh. -->
 
 <pre>
- ~> <strong>cat note.txt</strong>
-1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:hedy+gh@tilde.cafe">email</a>.
-2. I use sourcehut (primarily) to host my repositories.
-   Most of them has github mirrors.
- 
+ ~> <strong>cat HelloWorld.txt</strong>
+- Hi, My name is Max Tong. 
+  I am Full Stack Developer & Product Manger.
+- I enjoy building from zero to one by code or prototype!      
  ~> <strong>ls socials</strong>
  Fediverse: <a href="https://tilde.zone/@hedy">@hedy@tilde.zone</a>
 
