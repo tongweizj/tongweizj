@@ -15,7 +15,7 @@
 </pre>
 
 <pre>
- ~> <strong>cat HelloWorld.txt</strong>
+ ~> <strong>💬 cat HelloWorld.txt</strong>
   - Hi, My name is Max Tong. 
     I am Full Stack Developer & Product Manger.
   - I enjoy building from zero to one by code or prototype! 
@@ -27,7 +27,7 @@
 </pre>
 
 <pre>
- ~> <strong>finger Max</strong>
+ ~> <strong>🔭 finger Max</strong>
   🌱 I’m currently learning ...
     - <a href="https://github.com/tongweizj/Developer-Certificates-and-Courses/tree/main/Coursera_Meta-Front-End-Developer">Meta-Front-End-Developer</a>
   ⚡ Project:
