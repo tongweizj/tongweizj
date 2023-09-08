@@ -26,19 +26,11 @@
   - Email: <a href="mailto:max.tw@yoese.com">max.tw@yoese.com</a>.
 
  ~> <strong>finger Max</strong>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-
+  🌱 I’m currently learning ...
+      - <a href="[https://github.com/tongweizj/Developer-Certificates-and-Courses](https://github.com/tongweizj/Developer-Certificates-and-Courses/tree/main/Coursera_Meta-Front-End-Developer)">Meta-Front-End-Developer</a>
   - ⚡ Project:
-    - <a href="https://github.com/hedyhli/dotfiles">dotfiles</a>
-    - Working on my web, gemini, and spartan site, <a href="https://hedy.tilde.cafe">check it out</a>!
-    - Drafting (b|gem|ph|sh)log posts - but not publishing :>
-    - Working on <a href="https://github.com/hedyhli/gelim">gelim</a> (terminal gemini client) and <a href="https://github.com/hedyhli/spsrv">spsrv</a> (spartan server).
+    - <a href="https://github.com/tongweizj/React-HackerNews">React-HackerNews</a>
+
 Plan:
   Learning \o/
 </pre>
