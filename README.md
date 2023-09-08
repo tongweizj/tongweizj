@@ -24,7 +24,9 @@
   - blog: <a href="yoese.com">yoese.com</a>
   - Linkedin: <a href="https://www.linkedin.com/in/tongweizj/">tongweizj</a>
   - Email: <a href="mailto:max.tw@yoese.com">max.tw@yoese.com</a>.
+</pre>
 
+<pre>
  ~> <strong>finger Max</strong>
   🌱 I’m currently learning ...
     - <a href="https://github.com/tongweizj/Developer-Certificates-and-Courses/tree/main/Coursera_Meta-Front-End-Developer">Meta-Front-End-Developer</a>
