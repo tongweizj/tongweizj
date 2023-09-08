@@ -30,11 +30,12 @@
  ~> <strong>🔭 finger Max</strong>
   🌱 I’m currently learning ...
     - <a href="https://github.com/tongweizj/Developer-Certificates-and-Courses/tree/main/Coursera_Meta-Front-End-Developer">Meta-Front-End-Developer</a>
+      
   ⚡ Project:
     - <a href="https://github.com/tongweizj/React-HackerNews">React-HackerNews</a>
 
-Plan:
-  Learning \o/
+  🤔 Plan:
+    - Learning \o/
 </pre>
 
 [**octo ring**](https://octo-ring.com/)
